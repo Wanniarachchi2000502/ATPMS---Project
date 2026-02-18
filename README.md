@@ -81,7 +81,7 @@ This project develops an integrated digital ecosystem to modernize traffic law e
 ##  Group Details
 | Name | Student ID | Component | Status |
 | :--- | :--- | :--- | :--- |
-| **YGY Induwara** | IT22642332 | Blockchain & Evidence Vault | ? Leader |
-| **Wanniarachchi W.A.D.P.** | IT22601056 | AI Legal Intelligence | ????? Member |
-| **Bandara S.W.G.B.M.T.** | IT22638304 | Violation & Automation | ????? Member |
-| **Lakshan W.V.D.** | IT22560308 | Monitoring & Safety | ????? Member |
+| **YGY Induwara** | IT22642332 | Blockchain & Evidence Vault | Leader |
+| **Wanniarachchi W.A.D.P.** | IT22601056 | AI Legal Intelligence | Member |
+| **Bandara S.W.G.B.M.T.** | IT22638304 | Violation & Automation | Member |
+| **Lakshan W.V.D.** | IT22560308 | Monitoring & Safety |  Member |
