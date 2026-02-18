@@ -71,10 +71,10 @@ This project develops an integrated digital ecosystem to modernize traffic law e
 ---
 
 ##  Technologies Used
-?? **Artificial Intelligence:** NLP, Computer Vision (LPR), LSTM, XGBoost  
-?? **Blockchain:** IPFS, Zero-Knowledge Proofs (ZKP), Hashed IDs  
-??? **Security:** AES-256 Encryption, Geo-tagging, WebRTC  
-?? **Data Science:** Predictive Heatmaps, Risk Assessment Models
+**Artificial Intelligence:** NLP, Computer Vision (LPR), LSTM, XGBoost  
+**Blockchain:** IPFS, Zero-Knowledge Proofs (ZKP), Hashed IDs  
+**Security:** AES-256 Encryption, Geo-tagging, WebRTC  
+**Data Science:** Predictive Heatmaps, Risk Assessment Models
 
 ---
 
